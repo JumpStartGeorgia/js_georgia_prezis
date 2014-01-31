@@ -7,7 +7,7 @@
     <script src="datatables/media/js/jquery.js"></script>
     <script src="datatables/media/js/jquery.dataTables.min.js"></script>
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
-    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>

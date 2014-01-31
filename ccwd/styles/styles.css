@@ -1,0 +1,156 @@
+body {
+  font-family: 'Crete Round', serif;
+  font-size: 5em;
+  font-weight: 750;
+  background-color: #FFFFFF;
+}
+
+.step {
+  width: 1024px;
+}
+
+.future {
+  opacity: 0.30;
+}
+
+.past {
+  opacity: 0.30;
+}
+
+.heavy {
+  font-weight: 775;
+}
+
+#slide-01 div {
+  margin-left: 125px;
+}
+
+#slide-01 img {
+  position: absolute;
+  left: -200px;
+  top: -60px;
+}
+
+#slide-01 span:nth-of-type(1) {
+  color: #EF4926;
+}
+
+#slide-01 span:nth-of-type(2) {
+  color: #C5242E;
+}
+
+#slide-01 span:nth-of-type(3) {
+  color: #EF4926;
+}
+
+#slide-01 span:nth-of-type(4) {
+  color: #FF0000;
+}
+
+#slide-01 span:nth-of-type(5) {
+  color: #FF7F00;
+}
+
+#slide-01 span:nth-of-type(6) {
+  color: #FFFF00;
+}
+
+#slide-01 span:nth-of-type(7) {
+  color: #00FF00;
+}
+
+#slide-01 span:nth-of-type(8) {
+  color: #0000FF;
+}
+
+#slide-01 span:nth-of-type(9) {
+  color: #4B0082;
+}
+
+#slide-01 span:nth-of-type(10) {
+  color: #8F00FF;
+}
+
+#slide-01 span:nth-of-type(11) {
+  color: #FF0000;
+}
+
+#slide-01 span:nth-of-type(12) {
+  display: block;
+  text-align: right;
+  font-size: 1.5em; 
+  color: #C5242E;
+}
+
+#slide-02 span:nth-of-type(1) {
+  color: #FF0000;
+  font-size: 1.5em;
+}
+
+#slide-02 span:nth-of-type(2) {
+  color: #FF0000;
+  font-size: 1.5em;
+}
+
+#slide-03 span:nth-of-type(1) {
+  display: block;
+  text-align: center;
+  font-size: 1.5em;
+  color: #C5242E;
+}
+
+#slide-03 span:nth-of-type(2) {
+  display: block;
+  text-align: left;
+  font-size: 1.5em;
+}
+
+#slide-37 span {
+  font-weight: 900;
+}
+
+#slide-38 span:nth-of-type(1) {
+  color: #FF0000;
+  font-size: 1.5em;
+}
+
+#slide-38 span:nth-of-type(2) {
+  color: #FF0000;
+  font-size: 1.5em;
+}
+
+#slide-39 div {
+  margin-left: 125px;
+}
+
+#slide-39 img {
+  position: absolute;
+  left: -200px;
+  top: -60px;
+}
+
+#slide-39 span:nth-of-type(1) {
+  color: #EF4926;
+}
+
+#slide-39 span:nth-of-type(2) {
+  color: #C5242E;
+}
+
+#slide-39 span:nth-of-type(3) {
+  color: #EF4926;
+}
+
+#slide-39 span:nth-of-type(4) {
+  color: #FF0000;
+}
+
+#slide-39 span:nth-of-type(5) {
+  display: block;
+  color: #FF7F00;
+  font-size: 2em;
+  text-align: right;
+  font-weight: 900;
+  padding-top: 40px;
+  text-shadow: 5px 5px #ff0000;
+}

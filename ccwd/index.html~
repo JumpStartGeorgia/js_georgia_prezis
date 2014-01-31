@@ -1,0 +1,179 @@
+<!doctype html>
+<html>
+  <head>
+    <title>@jsgeorgia does #4MTbilisi</title>
+    <meta charset="utf-8" />
+    <link href="styles/styles.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Crete+Round' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" type="image/png" href="images/favicon.ico" />
+  </head>
+	<body>
+		<div id="impress">
+      
+      <div id="slide-01" class="step" data-x="0" data-y="0">
+				<img src="images/jsgeorgia_logo.png" />
+				<div>
+				  <span>@</span>jsgeorgia <span>|</span> <span>#</span>jsgccdata<br /><span>c</span><span>o</span><span>l</span><span>o</span><span>r</span><span>i</span><span>n</span><span>g</span> communications with <span>0p3n d@t@</span>
+        </div>
+			</div>
+      
+      <div id="slide-02" class="step" data-x="2000" data-y="0">
+				we have a <span>vision</span> for an <span>open</span> georgian government! 
+			</div>
+			
+			<div id="slide-03" class="step" data-x="4000" data-y="0">
+				we envision an informed, all-inclusive citizenry making evidence-based decisions and participating in government processes, mechanisms, and activities
+			</div>
+			
+			<div id="slide-04" class="step" data-x="6000" data-y="0">
+			  voting alone does not an open government make
+			</div>
+			
+			<div id="slide-05" class="step" data-x="8000" data-y="0">
+			  informed = has access to all relevant information to understand an issue
+			</div>
+			
+			<div id="slide-06" class="step" data-x="10000" data-y="0">
+			  an open government is one where all equally have access to all relevant information about important issues that affect our lives
+			</div>
+			
+			<div id="slide-07" class="step" data-x="12000" data-y="0">
+			  data &#8594; information &#8594; understanding &#8594; informed decisions 
+			</div>
+			
+			<div id="slide-08" class="step" data-x="14000" data-y="0">
+			  equal access to relevant information = a government, which by default, proactively discloses its data
+			</div>
+			
+			<div id="slide-09" class="step" data-x="16000" data-y="0">
+			  we have a vision for open data!
+			</div>
+			
+			<div id="slide-10" class="step" data-x="18000" data-y="0">
+			  open data is the currency of an open and transparent government
+			</div>
+			
+			<div id="slide-11" class="step" data-x="20000" data-y="0">
+			  open data, while grounded in law, has a spirit, and it is behind the embodiment of this spirit that we stand
+			</div>
+			
+			<div id="slide-12" class="step" data-x="22000" data-y="0">
+        open data guidelines for government and civil society organizations		
+			</div>
+			
+			<div id="slide-13" class="step" data-x="24000" data-y="0">
+			  set the default to open
+			</div>
+
+			<div id="slide-14" class="step" data-x="26000" data-y="0">
+			  mandate the release of specific new information
+			</div>
+			
+			<div id="slide-15" class="step" data-x="28000" data-y="0">
+			  stipulate that provisions apply to contractors or quasi-governmental agencies
+			</div>
+			
+			<div id="slide-16" class="step" data-x="30000" data-y="0">
+			  appropriately safeguard sensitive information
+			</div>
+			
+			<div id="slide-17" class="step" data-x="32000" data-y="0">
+			  require exemptions to data release be balance-tested in the public interest
+			</div>
+			
+			<div id="slide-18" class="step" data-x="34000" data-y="0">
+			  require code sharing or publishing open source
+			</div>
+			
+			<div id="slide-19" class="step" data-x="36000" data-y="0">
+			  mandate open formats for government data
+			</div>
+			
+			<div id="slide-20" class="step" data-x="38000" data-y="0">
+			  require public information to be posted online
+			</div>
+			
+			<div id="slide-21" class="step" data-x="40000" data-y="0">
+			  remove restrictions for accessing information
+			</div>
+			
+			<div id="slide-22" class="step" data-x="42000" data-y="0">
+			  remove restrictions on reuse of information
+			</div>
+			
+			<div id="slide-23" class="step" data-x="44000" data-y="0">
+			  require publishing metadata or other documentation
+			</div>
+			
+			<div id="slide-24" class="step" data-x="46000" data-y="0">
+			  create a portal or website devoted to data publication or policy
+			</div>
+			
+			<div id="slide-25" class="step" data-x="48000" data-y="0">
+			  publish bulk data
+			</div>
+			
+			<div id="slide-26" class="step" data-x="50000" data-y="0">
+			  create public APIs for accessing information
+			</div>
+			
+			<div id="slide-27" class="step" data-x="52000" data-y="0">
+			  mandate electronic filing
+			</div>
+			
+			<div id="slide-28" class="step" data-x="54000" data-y="0">
+			  mandate ongoing data publication and updates
+			</div>
+			
+			<div id="slide-29" class="step" data-x="56000" data-y="0">
+        create or appoint oversight authority
+			</div>
+			
+			<div id="slide-30" class="step" data-x="58000" data-y="0">
+			  create binding regulations or guidance for implementation
+			</div>
+			
+			<div id="slide-31" class="step" data-x="60000" data-y="0">
+			  incorporate public perspectives into policy implementation
+			</div>
+			
+			<div id="slide-32" class="step" data-x="62000" data-y="0">
+			  create processes to ensure data quality
+			</div>
+			
+			<div id="slide-33" class="step" data-x="64000" data-y="0">
+			  create a public, comprehensive list of all information holdings
+			</div>
+			
+			<div id="slide-34" class="step" data-x="66000" data-y="0">
+			  ensure sufficient funding for implementation
+			</div>
+			
+			<div id="slide-35" class="step" data-x="68000" data-y="0">
+			  open data is not just for government, but for civil society organizations too
+			</div>
+			
+			<div id="slide-36" class="step" data-x="70000" data-y="0">
+			  donors should stipulate open data requirements in contracts
+			</div>
+			
+			<div id="slide-37" class="step" data-x="72000" data-y="0">
+			  open data is about <span>users</span>: how users are able to interface with data is a reflection of the <span>commitment</span> of the agency providing the data to truly <span>inform</span> and <span>empower</span> the public
+			</div>
+			
+			<div id="slide-38" class="step" data-x="74000" data-y="0">
+         we have a <span>vision</span> for an <span>open</span> georgian government! 
+			</div>
+			
+			<div id="slide-39" class="step" data-x="76000" data-y="0" data-rotate="45">
+				<img src="images/jsgeorgia_logo.png" />
+				<div>
+				  <span>@</span>jsgeorgia <span>|</span> <span>#</span>jsgccdata<br /><span>http://www.jumpstart.ge/</span><br /><span>მადლობა</span>
+        </div>
+			</div>
+						
+		</div>
+		<script type="text/javascript" src="javascript/impress.js"></script>
+		<script>impress().init();</script>
+	</body>
+</html>
