@@ -20,8 +20,7 @@
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
-          <img src="" />
-          <a class="navbar-brand" href="http://presentations.jumpstart.ge/">JumpStart Georgia's Prezi's</a>
+          <a class="navbar-brand" href="http://presentations.jumpstart.ge/"><img src="js_logo.png" /> JumpStart Georgia's Prezi's</a>
         </div>
       </div>
     </div>
