@@ -1,0 +1,329 @@
+@font-face {
+    font-family: 'dejavuThin';
+    src: url('fonts/DejaVuSans-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'dejavuNormal';
+    src: url('fonts/DejaVuSansCondensed.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'dejavuBold';
+    src: url('fonts/DejaVuSansCondensed-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'BPGThin';
+    src: url('fonts/BPGDejaVuSansExtrLightCaps2012s.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'BPGNormal';
+    src: url('fonts/ttf3.ttf') format('truetype');
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+body {
+	background-color: #FFF;
+	font-family: 'dejavuThin';
+	min-height : 800px;
+}
+
+b, strong { font-family: "dejavuBold" }
+i, em { font-family: "dejavuNormal" }
+h1 { 
+	color: #DE4355;
+	font-family: "dejavuNormal";
+	display: inline;
+}
+
+
+.step {
+    position: relative;
+    width: 1400px;
+    
+    
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:    border-box;
+    -ms-box-sizing:     border-box;
+    -o-box-sizing:      border-box;
+    box-sizing:         border-box;
+    
+    font-family: 'dejavuThin';
+    font-size: 40px;
+    color: #444444;
+    line-height: 1.5;
+    text-align: center;
+}
+
+/* .step:first-child {
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10% 20% 0% 0%;
+}
+*/
+    
+
+.impress-enabled .step {
+    margin: 0;
+    opacity: 0.3;
+
+    -webkit-transition: opacity 1s;
+    -moz-transition:    opacity 1s;
+    -ms-transition:     opacity 1s;
+    -o-transition:      opacity 1s;
+    transition:         opacity 1s;
+}
+
+.impress-enabled .step.active { opacity: 1 }
+
+#its-in-3d p {
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style:    preserve-3d; /* Y U need this Firefox?! */
+    -ms-transform-style:     preserve-3d;
+    -o-transform-style:      preserve-3d;
+    transform-style:         preserve-3d;
+    
+    text-align: center;
+}
+
+/*#its-in-3d .sazogadoebis {
+    -webkit-transform: translateZ(20px);
+    -moz-transform:    translateZ(20px);
+    -ms-transform:     translateZ(20px);
+    -o-transform:      translateZ(20px);
+    transform:         translateZ(20px);
+}
+
+#its-in-3d .informirebuloba {
+    -webkit-transform: translateZ(-40px);
+    -moz-transform:    translateZ(-40px);
+    -ms-transform:     translateZ(-40px);
+    -o-transform:      translateZ(-40px);
+    transform:         translateZ(-40px);
+}
+*/
+
+
+#ing.present .positioning {
+    -webkit-transform: translateY(-10px);
+    -moz-transform:    translateY(-10px);
+    -ms-transform:     translateY(-10px);
+    -o-transform:      translateY(-10px);
+    transform:         translateY(-10px);
+}
+
+#ing.present .rotating {
+    -webkit-transform: rotate(-10deg);
+    -moz-transform:    rotate(-10deg);
+    -ms-transform:     rotate(-10deg);
+    -o-transform:      rotate(-10deg);
+    transform:         rotate(-10deg);
+
+    -webkit-transition-delay: 0.25s;
+    -moz-transition-delay:    0.25s;
+    -ms-transition-delay:     0.25s;
+    -o-transition-delay:      0.25s;
+    transition-delay:         0.25s;
+}
+
+#ing.present .scaling {
+    -webkit-transform: scale(0.7);
+    -moz-transform:    scale(0.7);
+    -ms-transform:     scale(0.7);
+    -o-transform:      scale(0.7);
+    transform:         scale(0.7);
+
+    -webkit-transition-delay: 0.5s;
+    -moz-transition-delay:    0.5s;
+    -ms-transition-delay:     0.5s;
+    -o-transition-delay:      0.5s;
+    transition-delay:         0.5s;
+}
+
+#overview { display: none }
+
+.impress-on-overview .step {
+    opacity: 1;
+    cursor: pointer;
+}
+
+#slide1 {
+	background-image: url('../images/1slide.png');
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-size: 100%;
+    margin-left: -10px;
+}    
+/*
+#slide2, #slide3, #slide6, #slide11, #slide12 {
+	text-align: center;
+}
+*/
+#slide2 b {
+	color: #DE4355;
+	font-size: 54px;
+}    
+
+
+#slide4 {
+	color: #469E72;
+	font-size: 60px;
+}
+
+#slide5 {
+	background-image: url('../images/5slide.png');
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-size: 100%;
+} 
+
+#its-in-3d div {
+	margin-top: 50px;
+	margin-left: 250px;
+	font-size: 20px;
+	text-align: left;
+}
+
+
+#slide8 {
+	background-image: url('../images/heading3.png');
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-size: 100%;
+} 
+
+#slide9 {
+	height: 750px;
+}
+
+#slide9 img {
+	height: 750px;
+}
+
+#slide10 {
+	font-size: 36px;
+	height: 750px;
+	margin-top: 25px;
+}
+
+#slide10 p{
+	margin-left: 170px;
+	width: 1020px;
+	padding: 20px;
+	color: white;
+	background-color: #898989;
+}
+
+#slide13 {
+	font-family: "BPGNormal";
+	font-size: 70px;
+}
+
+#slide13 span, #slide14 span {
+	font-size: 80px;
+	color: #DE4355;
+}
+
+#slide14 ul {
+	font-size: 30px;
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 540px;
+}
+
+#slide16 p {
+	margin-bottom: 25px;
+}
+
+#slide16 span {
+	font-family: "dejavuBold";
+	font-size: 40px;
+	color: #DE4355;
+}
+
+#slide20 span, #slide21 span {
+	font-size: 50px;
+	color: #d7a439;
+}
+
+#slide26 img {
+	height: 800px;
+}
+
+#slide27 {
+	font-size: 60px;
+}
+
+#slide33 span {
+	margin-right: 10px;
+	font-size: 70px;
+	color: #DE4355;
+	font-family: "BPGNormal";
+}
+
+
+#slide36 ul {
+	font-size: 30px;
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 100px;
+}
+
+#slide37 span {
+	margin-right: 10px;
+	font-size: 70px;
+	color: #DE4355;
+	font-family: "BPGNormal";
+}
+
+#slide37 p {
+	margin-right: 15px;
+	display: inline-block;
+}
+
+#slide38 h1 {
+	font-size: 60px;
+}
+
+#slide38 {
+	padding-top: 150px;
+	height: 600px;
+}
+
+#slide38 div {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	
+	
+}
+
+#slide38 div p {
+	font-size: 24px;
+}
