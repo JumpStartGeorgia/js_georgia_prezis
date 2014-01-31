@@ -7,7 +7,7 @@
     <script src="datatables/media/js/jquery.js"></script>
     <script src="datatables/media/js/jquery.dataTables.min.js"></script>
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
-    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="favicon.ico" />
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -20,12 +20,7 @@
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
+          <img src="" />
           <a class="navbar-brand" href="#">JumpStart Georgia's Prezi's</a>
         </div>
         <div class="collapse navbar-collapse">
@@ -56,19 +51,19 @@
       </thead>
       <tbody>
         <tr>
-          <td><a href="4m/">4M Conference</a></td>
+          <td><a href="http://bit.ly/1iSMxp7">4M Conference</a></td>
           <td>Eric Barrett</td>
           <td>11/15/2013</td>
           <td>English</td>
         </tr>
         <tr>
-          <td><a href="ccwd/">Open Data</a></td>
+          <td><a href="http://bit.ly/1nuAKxt">Open Data</a></td>
           <td>Eric Barrett</td>
           <td>01/28/2014</td>
           <td>English</td>
         </tr>
         <tr>
-          <td><a href="design_for_effective_communication/">Design for Effective Communication</a></td>
+          <td><a href="http://bit.ly/1ecPQ8q">Design for Effective Communication</a></td>
           <td>Mariam Kobuladze</td>
           <td>01/28/2014</td>
           <td>Georgian</td>
