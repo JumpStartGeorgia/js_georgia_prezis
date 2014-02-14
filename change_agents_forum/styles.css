@@ -308,5 +308,11 @@ ul { list-style-image: url('images/jumpstart.png'); }
   color: #C5242E;
 }
 
+#slide-31 {
+  font-size: 0.5em;
+}
 
+#slide-31 ul {
+  list-style: none;
+}
 

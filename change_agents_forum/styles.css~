@@ -266,7 +266,7 @@ ul { list-style-image: url('images/jumpstart.png'); }
 }
 
 #slide-22 span:nth-of-type(2) {
-
+  color: #EF4926;
 }
 
 #slide-30 div {
@@ -308,5 +308,8 @@ ul { list-style-image: url('images/jumpstart.png'); }
   color: #C5242E;
 }
 
-
+#slide-31 {
+  font-size: 0.5em;
+  list-style: none;
+}
 
