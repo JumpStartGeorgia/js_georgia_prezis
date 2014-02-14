@@ -1,0 +1,149 @@
+<!doctype html>
+<html>
+	<head>
+		<title>@jsgeorgia does #4MTbilisi</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="description" content="#4MTbilisi | @jsgeorgia does data visualization" />
+    <meta name="author" content="Bartek Szopka" />
+		<link href="styles.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Crete+Round' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" type="image/png" href="favicon.ico" />
+	</head>
+	<body>
+		<div id="impress">
+      
+      <div id="slide-01" class="step" data-x="0" data-y="0">
+				<img src="jsgeorgia_logo.png" />
+				<div>
+				  <span>&ldquo;we are all agents of change&rdquo;</span><br /><span>@</span>jsgeorgia <span>|</span> <span>#</span>aocgeorgia<br /><span>http://www.jumpstart.ge/</span>
+        </div>
+			</div>
+      
+      <div id="slide-02" class="step" data-x="2000" data-y="0" data-rotate="50">
+				what is <span>data visualization</span><br /><span>?</span>
+			</div>
+
+      <div id="slide-05" class="step" data-x="8000" data-y="0" data-rotate="-50">
+				it is <span>communication</span>
+			</div>
+            
+      <div id="slide-04" class="step" data-x="6000" data-y="0" data-rotate="50">
+				it is <span>advocacy</span> to change <img src="images/hearts.png" />, <img src="images/minds.png" />, and <img src="images/behavior.png" />
+			</div>
+      
+      <div id="slide-06" class="step" data-x="10000" data-y="0" data-rotate="50">
+				<span>3</span> steps in data visualization:
+        <ul>
+          <li>collect</li>
+          <li>analyze</li>
+          <li>communicate</li>
+        </ul>
+			</div>
+      
+      <div id="slide-07" class="step" data-x="12000" data-y="0" data-rotate="-50">
+				collecting <span>data</span>
+			</div>
+      
+      <div id="slide-08" class="step" data-x="14000" data-y="0">
+				<span>few</span> organizations have the resources to create a good dataset for analysis
+			</div>
+      
+      <div id="slide-10" class="step" data-x="18000" data-y="0">
+				analyzing <span>data</span>
+			</div>
+      
+      <div id="slide-10-1" class="step" data-x="20000" data-y="0" data-scale="1.5">
+        <span>statistics</span>
+			</div>
+      
+			<div id="slide-11" class="step" data-x="22000" data-y="0">
+				communicating <span>data</span>
+			</div>
+      
+      <div id="slide-12" class="step" data-x="24000" data-y="0" data-rotate="-50">
+				data visualizations are about <span>communication</span>
+			</div>
+      
+      <div id="slide-14" class="step" data-x="28000" data-y="0">
+				know your <span>target audience</span>
+			</div>
+      
+      <div id="slide-15" class="step" data-x="30000" data-y="0" data-scale="2">
+				there is currently <span>little</span> data in georgia to help understand target audience demographics 
+			</div>
+      
+      <div id="slide-16" class="step" data-x="32000" data-y="0">
+				what works in <span>georgia</span>?
+			</div>
+      
+      <div id="slide-17" class="step" data-x="34000" data-y="0" data-rotate="50" data-scale="2">
+				<span>simplicity</span> versus <span>complexity</span>
+			</div>
+      
+      <div id="slide-18" class="step" data-x="36000" data-y="0">
+				<span>society</span> focused versus other
+			</div>
+      
+      <div id="slide-19" class="step" data-x="38000" data-y="0">
+				<span>timeliness</span> and <span>relevance</span>
+			</div>
+      
+      <div id="slide-20" class="step" data-x="40000" data-y="0" data-rotate="50" data-scale="4">
+				<span>fun</span>
+			</div>
+      
+       <div id="slide-21" class="step" data-x="44000" data-y="0" data-rotate="50" data-scale="4">
+        <p>recommendations</p>
+        <ul>
+          <li>have an effective communication/advocacy strategy at the outset</li>
+          <li>know what data you will need for your message</li>
+          <li>provide enough time to prepare the visualization</li>
+        </ul>
+			</div>
+
+      <div id="slide-22" class="step" data-x="48000" data-y="0" data-rotate="50" data-scale="4">
+          who is the intended audience?
+      </div>
+      
+      <div id="slide-23" class="step" data-x="50000" data-y="0" data-rotate="50" data-scale="4">
+          who is the intended audience?
+      </div>
+      
+      <div id="slide-24" class="step" data-x="52000" data-y="0" data-rotate="50" data-scale="4">
+          what is the information being shared?
+      </div>      
+
+      <div id="slide-25" class="step" data-x="54000" data-y="0" data-rotate="50" data-scale="4">
+          how would this make the audience feel?
+      </div>      
+
+      <div id="slide-26" class="step" data-x="56000" data-y="0" data-rotate="50" data-scale="4">
+          what visual techniques does it use?
+      </div>      
+
+      <div id="slide-27" class="step" data-x="58000" data-y="0" data-rotate="50" data-scale="4">
+          are their any ethical or reliability issues with the presentation?
+      </div>      
+      
+			<div id="slide-30" class="step" data-x="60000" data-y="0">
+				<img src="jsgeorgia_logo.png" />
+				<div>
+				  <span>@</span>jsgeorgia <span>|</span> we <br />communicate <span>data</span> better!
+				</div>
+        <p>credits</p>
+        <ul>
+          <li>heart designed by <a href="http://thenounproject.com/megan.sheehan">megan sheehan</a> from the <a href="http://www.thenounproject.com/">noun project</a></li>
+          <li>psyche designed by <a href="http://thenounproject.com/JulianClaus">julian claus</a> from the <a href="http://www.thenounproject.com/">noun project</a></li>
+          <li>chess designed by <a href="http://thenounproject.com/bravo">juan pablo bravo</a> from the <a href="http://www.thenounproject.com/">noun project</a></li>
+        </ul>
+			</div>
+			
+		</div>
+		<script type="text/javascript" src="impress.js"></script>
+		<!--
+			call `impress().init()` function to initialize impress.js presentation.
+		-->
+		<script>impress().init();</script>
+	</body>
+</html>
