@@ -103,7 +103,7 @@
 			</div>
 
       <div id="slide-22" class="step" data-x="48000" data-y="0" data-rotate="50" data-scale="4">
-          who is the intended audience?
+          <span>data</span> <span>literacy</span>
       </div>
       
       <div id="slide-23" class="step" data-x="50000" data-y="0" data-rotate="50" data-scale="4">
@@ -131,6 +131,9 @@
 				<div>
 				  <span>@</span>jsgeorgia <span>|</span> we <br />communicate <span>data</span> better!
 				</div>
+			</div>
+			
+			<div id="slide-31" class="step" data-x="62000" data-y="0">
         <p>credits</p>
         <ul>
           <li>heart designed by <a href="http://thenounproject.com/megan.sheehan">megan sheehan</a> from the <a href="http://www.thenounproject.com/">noun project</a></li>
