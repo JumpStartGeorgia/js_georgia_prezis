@@ -17,7 +17,7 @@ body {
 }
 
 .past {
-  opacity: 0.40;
+  opacity: 0.30;
 }
 
 .heavy {
@@ -58,22 +58,22 @@ body {
   font-size: 1.75em;
 }
 
-#slide-03 span:nth-of-type(1) {
-  color: #F5B21B;
-  font-size: 1.75em;
-}
-
 #slide-04 span:nth-of-type(1) {
   color: #F5B21B;
   font-size: 1.75em;
 }
 
-#slide-05 span:nth-of-type(1) {
+#slide-06 span:nth-of-type(1) {
   color: #F5B21B;
-  font-size: 1.5em;
+  font-size: 1.75em;
 }
 
-#slide-06 span:nth-of-type(1) {
+#slide-08 span:nth-of-type(1) {
+  color: #F5B21B;
+  font-size: 1.75em;
+}
+
+#slide-10 span:nth-of-type(1) {
   color: #F5B21B;
   font-size: 4em;
 }
