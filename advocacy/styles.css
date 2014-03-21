@@ -12,12 +12,17 @@ body {
   width: 1024px;
 }
 
+/* fade out inactive slides */
+.step:not(.active) { opacity: 0.1; }
+.step.hide:not(.active) { opacity: 0.3; }
+
+
 .future {
   opacity: 0.40;
 }
 
 .past {
-  opacity: 0.30;
+  opacity: 0.40;
 }
 
 .heavy {
