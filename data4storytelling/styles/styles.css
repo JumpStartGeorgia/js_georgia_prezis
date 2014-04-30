@@ -1,0 +1,21 @@
+body {
+  font-family: 'Crete Round', serif;
+  font-size: 5em;
+  font-weight: 750;
+  background-color: #FFFFFF;
+}
+
+.step {
+  width: 1024px;
+  text-align: center;
+}
+
+.future {
+  opacity: 0.30;
+}
+
+.past {
+  opacity: 0.30;
+}
+
+
