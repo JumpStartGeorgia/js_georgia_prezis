@@ -11,8 +11,9 @@
 	<body>
 		<div id="impress">
       
-      <div class="step" data-x="0" data-y="-2000" data-rotate="45" data-z="25000">
+      <div class="step" data-x="-2000" data-y="-2000" data-rotate="45" data-z="25000">
 			  <img src="images/jsgeorgia_logo.png" alt="jumpstart logo">
+			  <p>we communicate data better</p>
 			</div>
       
       <div class="step slide" data-x="0" data-y="0">
@@ -99,6 +100,7 @@
 			
 			<div class="step" data-x="12000" data-y="16000" data-rotate="45" data-z="25000">
 			  <img src="images/jsgeorgia_logo.png" alt="jumpstart logo">
+			  <p>info@jumpstart.ge</p>
 			</div>
 			
 		</div>

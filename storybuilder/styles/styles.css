@@ -44,6 +44,12 @@ body {
   width: 800px;
 }
 
+#step-1 p {
+  font-size: 60px;
+  font-style: italic;
+  color: #C5242E;
+}
+
 #step-2 {
   font-size: 45px;
 }
