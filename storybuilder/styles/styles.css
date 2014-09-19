@@ -6,6 +6,15 @@ body {
  
 }
 
+.future {
+  opacity: 0.80;
+}
+
+.past {
+  opacity: 0.80;
+}
+
+
 .slide {
   width: 900px;
   height: 550px;
@@ -27,31 +36,36 @@ body {
 }
 
 #step-1 {
-  font-size: 45px;
+  position: relative;
+}
+
+
+#step-1 img {
+  width: 800px;
 }
 
 #step-2 {
+  font-size: 45px;
+}
+
+#step-3 {
   position: relative;
   font-size: 80px;
   text-align: center;
 }
 
-#step-2 p {
+#step-3 p {
   position: absolute;
   margin-top: -62px;
   top: 50%;
 }
 
-#step-3 img {
+#step-4 img {
   margin: -5% 9%;
 }
 
-#step-4 img {
+#step-5 img {
   margin: 5% 5%;
-}
-
-#step-5 {
-  font-size: 45px;
 }
 
 #step-6 {
@@ -59,25 +73,24 @@ body {
 }
 
 #step-7 {
-  padding-top: 20px;
   font-size: 45px;
 }
 
 #step-8 {
-  
-  font-size: 60px;
-}
-
-#step-8 ul {
-  list-style-type: none;
+  padding-top: 20px;
+  font-size: 45px;
 }
 
 #step-9 {
-  padding-top: 20px;
   font-size: 60px;
 }
 
+#step-9 ul {
+  list-style-type: none;
+}
+
 #step-10 {
+  padding-top: 20px;
   font-size: 60px;
 }
 
@@ -86,14 +99,22 @@ body {
 }
 
 #step-12 {
+  font-size: 60px;
+}
+
+#step-13 {
+  font-size: 60px;
   position: relative;
 }
 
-#step-12 {
 
+#step-13 img {
+  width: 800px;
 }
 
-#step-12 img {
-  
-  width: 800px;
+#step-13 p {
+  font-size: 80px;
+  color: #C5242E; 
+  text-align: right;
+  font-weight: bold;
 }

@@ -11,6 +11,10 @@
 	<body>
 		<div id="impress">
       
+      <div class="step" data-x="0" data-y="-2000" data-rotate="45" data-z="25000">
+			  <img src="images/jsgeorgia_logo.png" alt="jumpstart logo">
+			</div>
+      
       <div class="step slide" data-x="0" data-y="0">
         <p class="left"><b>storytelling:</b><br /> the art of using language, vocalization, and/or physical movement and gesture to reveal the elements and images of a story to a specific, live audience</p>
 				<p class="right"><b>storybuilder:</b><br /> a tool that combines data, relationships, text, images, video, sound, and interactive media to tell stories that engage a live audience using the web</p>
