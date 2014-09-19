@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+  <head>
+    <title>storybuilder</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="eric barrett">
+    <meta name="organization" content="jumpstart georgia" >
+    <link href="styles/styles.css" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/png" href="images/favicon.ico" />
+  </head>
+	<body>
+		<div id="impress">
+      
+      <div class="step slide" data-x="0" data-y="0">
+        <p class="left"><b>storytelling:</b><br /> the art of using language, vocalization, and/or physical movement and gesture to reveal the elements and images of a story to a specific, live audience</p>
+				<p class="right"><b>storybuilder:</b><br /> a tool that combines data, relationships, text, images, video, sound, and interactive media to tell stories that engage a live audience using the web</p>
+      </div>
+
+			<div class="step slide" data-x="2000" data-y="0">
+			  <p>what is the web?</p>
+			</div>
+			
+			<div class="step slide" data-x="2000" data-y="4000">
+			  <img src="images/dfwatch.png" alt="dfwatch image">
+			</div>
+			
+			<div class="step slide" data-x="4000" data-y="4000">
+			  <img src="images/linked_data.png" alt="linked data">
+			</div>
+			
+			<div class="step slide" data-x="4000" data-y="6000">
+			  <h2>linking data to communicate</h2>
+			  <ul>
+			    <li>wikipedia.org</li>
+			    <li>openstreetmap.org</li>
+			    <li>data.gov</li>
+			    <li>votes.parliament.ge/ka/api/v1</li>
+			  </ul>
+			</div>
+			
+			<div class="step slide" data-x="6000" data-y="6000">
+			  <p>tools like <b>storybuilder</b> enable storytellers to combine data and media to tell stories that:
+			    <ul>
+			      <li>matter</li>
+			      <li>engage</li>
+			      <li>move to action</li>
+			      <li>change behavior</li>
+			    </ul>
+			  </p>
+			</div>
+			
+			<div class="step slide" data-x="6000" data-y="8000">
+			  <p>they do this by:
+			    <ul>
+			      <li>by presenting complex information in a way that flows</li>
+			      <li>by enabling users to design the flow</li>
+			      <li>by enabling readers to engage the media and information</li>
+			      <li>by enabling readers to find the source or raw data</li>
+			      <li>by enabling readers to share, download, and use the media and data</li>
+			    </ul>
+			  </p>
+			</div>
+			
+			<div class="step slide" data-x="8000" data-y="8000">
+			  <ul>
+			    <li>data</li>
+			    <li>analysis</li>
+			    <li>visualization</li>
+			    <li>contextual media</li>
+			    <li>story</li>
+			  </ul>
+			</div>
+			
+			<div class="step slide" data-x="8000" data-y="10000">
+			  <p>media can be anything:
+			    <ul>
+			      <li>text</li>
+			      <li>images</li>
+			      <li>audio</li>
+			      <li>video</li>
+			      <li>grouped media</li>
+			      <li>interactive visualizations</li>
+			    </ul>
+			  </p>
+			</div>
+			
+			<div class="step slide" data-x="10000" data-y="10000">
+			  <p>we would like everyone to understand the web as an opportunity to build on diverse sources, relationships, media, and technologies.</p>
+			</div>
+			
+			<div class="step slide" data-x="10000" data-y="12000">
+			  <p>we hope that <b>storybuilder</b> is a tool that helps you realize our wish</p>
+			</div>
+			
+			<div class="step" data-x="12000" data-y="12000">
+			  <img src="images/jsgeorgia_logo.png" alt="jumpstart logo">
+			</div>
+			
+		</div>
+		<script type="text/javascript" src="javascript/jquery.js"></script>
+		<script type="text/javascript" src="javascript/impress.js"></script>
+		<!--
+			call `impress().init()` function to initialize impress.js presentation.
+		-->
+		<script>
+		  impress().init();
+		  
+		  $(document).ready(function() {
+		    $(document).click(function() { impress().next(); });
+		  });
+		  
+		</script>
+	</body>
+</html>

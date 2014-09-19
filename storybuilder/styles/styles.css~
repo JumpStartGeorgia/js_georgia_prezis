@@ -1,0 +1,99 @@
+body {
+  width: 1024px;
+}
+
+.step {
+ 
+}
+
+.slide {
+  width: 900px;
+  height: 550px;
+  padding: 100px;
+  border-radius: 25px;
+  background-color: #cccccc;
+}
+
+.left {
+  float: left;
+  width: 420px;
+  border-right: solid;
+}
+
+.right {  
+  float: right;
+  width: 400px;
+  padding-left: 30px;
+}
+
+#step-1 {
+  font-size: 45px;
+}
+
+#step-2 {
+  position: relative;
+  font-size: 80px;
+  text-align: center;
+}
+
+#step-2 p {
+  position: absolute;
+  margin-top: -62px;
+  top: 50%;
+}
+
+#step-3 img {
+  margin: -5% 9%;
+}
+
+#step-4 img {
+  margin: 5% 5%;
+}
+
+#step-5 {
+  font-size: 45px;
+}
+
+#step-6 {
+  font-size: 45px;
+}
+
+#step-7 {
+  padding-top: 20px;
+  font-size: 45px;
+}
+
+#step-8 {
+  padding-top: 100px;
+  font-size: 60px;
+}
+
+#step-8 ul {
+  list-style-type: none;
+}
+
+#step-9 {
+  padding-top: 20px;
+  font-size: 60px;
+}
+
+#step-10 {
+  font-size: 60px;
+}
+
+#step-11 {
+  font-size: 60px;
+}
+
+#step-12 {
+  position: relative;
+}
+
+#step-12 {
+
+}
+
+#step-12 img {
+  
+  width: 800px;
+}
