@@ -26,13 +26,14 @@ body {
 .left {
   float: left;
   width: 420px;
-  border-right: solid;
+  
 }
 
 .right {  
   float: right;
   width: 400px;
-  padding-left: 30px;
+  padding-left: 40px;
+  border-left: solid;
 }
 
 #step-1 {

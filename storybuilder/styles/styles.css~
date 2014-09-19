@@ -26,13 +26,14 @@ body {
 .left {
   float: left;
   width: 420px;
-  border-right: solid;
+  
 }
 
 .right {  
   float: right;
   width: 400px;
   padding-left: 30px;
+  border-left: solid;
 }
 
 #step-1 {
@@ -45,6 +46,7 @@ body {
 }
 
 #step-1 p {
+  font-size: 60px;
   font-style: italic;
   color: #C5242E;
 }
