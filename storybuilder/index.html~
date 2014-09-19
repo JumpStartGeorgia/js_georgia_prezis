@@ -93,7 +93,7 @@
 			  <p>we hope that <b>storybuilder</b> is a tool that helps you realize our wish</p>
 			</div>
 			
-			<div class="step" data-x="12000" data-y="16000" data-rotate="45" data-z="30000">
+			<div class="step" data-x="12000" data-y="16000" data-rotate="45" data-z="25000">
 			  <img src="images/jsgeorgia_logo.png" alt="jumpstart logo">
 			</div>
 			
