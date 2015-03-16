@@ -1,7 +1,0 @@
-body {
- padding: 100px;
-}
-
-.dataTables_wrapper {
-  margin: 0 10% 0 10%;
-}
